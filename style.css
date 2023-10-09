@@ -382,7 +382,7 @@ p {
 .header6 img {
     width: 100%;
     object-fit: cover;
-    /* border: 2px solid black; */
+    border: 2px solid black;
 }
 
 .header7 img {
@@ -683,19 +683,19 @@ p {
 
 @media screen and (max-width:576px) {
     .header2 {
-        margin-top: -100px !important;
+        margin-top: -110px !important;
     }
 
     .header3 {
-        margin-top: -10px !important;
+        margin-top: -40px !important;
     }
 
     .header4 {
-        margin-top: -150px !important;
+        margin-top: -170px !important;
     }
 
     .header5 {
-        margin-top: 45px !important;
+        margin-top: 25px !important;
     }
 
     .header6 {
@@ -703,15 +703,15 @@ p {
     }
 
     .header7 {
-        margin-top: -100px !important;
+        margin-top: -120px !important;
     }
 
     .header8 {
-        margin-top: -65px !important;
+        margin-top: -95px !important;
     }
 
     .header9 {
-        margin-top: -50px !important;
+        margin-top: -70px !important;
     }
 
     .detailz {
@@ -720,7 +720,7 @@ p {
     }
     .text{
         position: absolute;
-        left: 164px;
+        left: 95px;
     }
     .service .content::before{
         position: absolute;
